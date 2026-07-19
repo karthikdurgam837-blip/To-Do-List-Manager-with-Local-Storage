@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Map Chatbot",
+  "description": "A conversational assistant that interacts with Google Maps, searches for places, calculates routes, and provides real-time geographic insights using Gemini AI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
